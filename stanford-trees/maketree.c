@@ -41,6 +41,7 @@ void maketree(Node_t** node)
         insert(*node,70);
         insert(*node,60);
         insert(*node,80);
+	insert(*node,90);
 }
 
 
